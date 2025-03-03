@@ -1,0 +1,23 @@
+.centered
+{
+    text-align:center;
+}
+.hidden{
+    display: none;
+}
+.show{
+    display: block;
+}
+button:hover{
+    background-color: aqua;
+}
+label{
+    color:inherit;
+    font: inherit;
+    margin: 0;
+}
+.carousel-inner img{
+    max-height: 300px;
+    width: 100%;
+    object-fit: contain;
+}
